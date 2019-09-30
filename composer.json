@@ -1,0 +1,10 @@
+{
+    "name": "wisdmlabs/moodle-format_remuiformat",
+    "type": "moodle-format",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "remuiformat"
+    }
+}
